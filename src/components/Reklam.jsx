@@ -10,16 +10,16 @@ const Reklam = () => {
           <div className="flex items-center gap-3">
             <hr className="w-8 bg-orange-500 border" />
             <span className="md:text-[16px] font-medium text-gray-800">
-              UI/UX Designer & Developer
+              Go telecom
             </span>
           </div>
           <p className="text-[32px] lg:text-[40px] xl:text-[45px] font-bold leading-tight mt-4">
-            I'm Rownok Mahbub <br />
-            Designer And Developer
+            Lorem ipsum dolor sit amet.<br/>
+           
           </p>
           <p className="mt-4 md:text-sm text-gray-700">
-            I'm a creative designer based in Bangladesh, passionate and dedicated to my work. 
-            <br className="hidden md:block" /> Your Satisfaction is my success.
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia, 
+            <br className="hidden md:block" /> Lorem ipsum dolor sit amet.
           </p>
           <div className="flex gap-3 mt-8">
             <button className="font-medium text-[14px] flex items-center px-4 py-2 md:py-3 md:px-6 rounded-lg bg-gradient-to-r from-orange-300 to-orange-500 hover:from-pink-500 hover:to-yellow-500 transition duration-300 hover:scale-105 text-white shadow-md">
