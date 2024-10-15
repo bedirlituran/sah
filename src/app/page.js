@@ -1,23 +1,20 @@
 import Footer from "@/components/Footer";
-import Navbar from "@/components/Navbar";
-import Pricing from "@/components/Pricing";
+import Hero from "@/components/Hero";
 import Email from "@/components/Email";
-import Slider from "@/components/Slider";
 import Reklam from "@/components/Reklam";
-import Faq from "@/components/Faq";
+import Navbar from "@/components/Navbar";
 import Futures from "@/components/Futures";
+import Stat from "@/components/Stat";
 
 
 export default function Home() {
   return (
     <>
-      <Navbar/>
-      <Pricing/>
-      <Slider/>
-      <Futures/>
+    <Navbar/>
+      <Hero/>
       <Reklam/>
-
-      <Faq/>
+      <Futures/>
+      <Stat/>
       <Email/>
       <hr className="border-none h-[1px] bg-green-100 mx-5 "/>
       <Footer/>
