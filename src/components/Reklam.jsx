@@ -142,8 +142,8 @@ const Reklam = () => {
         {/* Sağ içerik */}
         <div className="relative sm:mt-0 mt-8 px-4 shadow-xl sm:px-0 mx-auto">
           <img
-            className="w-full h-auto max-w-[500px] max-h-[600px] animate__animated animate__fadeInRight object-cover"
-            src="https://www.geniuscript.com/serity-wp/wp-content/uploads/2020/06/about-img.jpg"
+            className="w-full h-auto max-w-[500px] rounded-lg max-h-[600px] animate__animated animate__fadeInRight object-cover"
+            src="https://demo.farost.net/wiseguard/wp-content/uploads/elementor/thumbs/banner-4-qcs5xsu4sc5bho2n1hp0xbyb2c6n3nigey1whk1cd8.webp"
             alt="about"
           />
         </div>
