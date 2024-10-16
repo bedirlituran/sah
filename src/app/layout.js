@@ -14,7 +14,6 @@ export default function RootLayout({ children }) {
         className={`antialiased overflow-x-hidden`}
       >
          <Navbar/>
-         <Hero/>
         {children}
       </body>
       <Footer/>
