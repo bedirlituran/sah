@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="p-1 text-center text-xs sm:text-sm">
-        © 2024 CAMSYSTEMS. Bütün hüquqlar qorunur.
+        © 2024 CAMSİSTEMS. Bütün hüquqlar qorunur.
       </p>
     </footer>
   );

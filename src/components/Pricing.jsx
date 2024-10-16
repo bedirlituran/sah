@@ -10,7 +10,7 @@ const Pricing = () => {
             <p className="mt-2 text-3xl font-bold tracking-tight text-black sm:text-4xl">Hər kəs üçün sərfəli təhlükəsizlik kamera paketləri</p>
           </div>
           <p className="mx-auto mt-4 max-w-md text-center text-lg leading-6 text-black">
-            CamSystems ilə ehtiyaclarınıza uyğun mükəmməl təhlükəsizlik planını seçin.
+            CamSİstems ilə ehtiyaclarınıza uyğun mükəmməl təhlükəsizlik planını seçin.
           </p>
      
           <div className="isolate mx-auto mt-8 grid max-w-md grid-cols-1 gap-6 lg:max-w-none lg:grid-cols-3">
